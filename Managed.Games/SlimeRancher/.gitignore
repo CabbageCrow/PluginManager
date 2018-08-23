@@ -1,0 +1,2 @@
+# Ignore the Assembly-CSharp.dll due to potential copyright issues. User have to to add their copy for building.
+Assembly-CSharp.dll
